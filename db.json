@@ -6,14 +6,14 @@
   "smartphone": 30000000
   }
 ],
-"rev": [
+"revenue": [
   {
   "total": 200000,
   "tablet": 120000,
   "smartphone": 80000
   }
 ],
-"visit" : [
+"visits" : [
   {
     "total": 600000000,
     "tablet": 480000000,
